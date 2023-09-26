@@ -125,7 +125,9 @@ export const CaminhaoContainer = styled(Grid)(({ theme }) => ({
         justifyContent: 'center',
         width: '100%',
         margin: 'auto',
-        paddingLeft: '4rem'
+        paddingLeft: '4rem',
+        paddingTop: '20px',
+        paddingBottom: '20px'
     },
 
     "@media (max-width:1000px)":{
