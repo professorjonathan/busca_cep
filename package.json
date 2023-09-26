@@ -1,6 +1,6 @@
 {
   "name": "busca_cep",
-  "homepage": "https://professorjonathan.github.io/projeto_Busca_Cep/",
+  "homepage": "https://professorjonathan.github.io/busca_cep/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
