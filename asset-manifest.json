@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projeto_Busca_Cep/static/css/main.ad02375f.css",
+    "main.js": "/projeto_Busca_Cep/static/js/main.a6970216.js",
+    "static/media/Caminhao.svg": "/projeto_Busca_Cep/static/media/Caminhao.bfea9b59fa300716a1ca82ba9a7888a4.svg",
+    "index.html": "/projeto_Busca_Cep/index.html",
+    "static/media/Search.svg": "/projeto_Busca_Cep/static/media/Search.00d7d0ebe6c3b67331477196d1058158.svg",
+    "main.ad02375f.css.map": "/projeto_Busca_Cep/static/css/main.ad02375f.css.map",
+    "main.a6970216.js.map": "/projeto_Busca_Cep/static/js/main.a6970216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad02375f.css",
+    "static/js/main.a6970216.js"
+  ]
+}
