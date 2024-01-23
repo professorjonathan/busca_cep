@@ -1,3 +1,9 @@
+Projeto Busca Cep, desenvolvido com React, integrado com API de consulta CEP, Styled-Components, com responsividade web/mobile
+
+![image](https://github.com/professorjonathan/busca_cep/assets/115835116/9047ac13-7f3b-4025-a91b-0bf219d44593)
+![image](https://github.com/professorjonathan/busca_cep/assets/115835116/ad719ebf-3059-426f-9d32-4de3524e9897)
+![image](https://github.com/professorjonathan/busca_cep/assets/115835116/afc68f9e-00eb-4a7e-9ce8-daf06767fa82)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
